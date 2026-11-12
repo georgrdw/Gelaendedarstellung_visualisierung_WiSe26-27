@@ -16,3 +16,8 @@
 
 # Arbeitslosigkeit in Berlin
 ![Arbeitslosigkeit in Berlin](https://github.com/georgrdw/Gelaendedarstellung_visualisierung_WiSe26-27/blob/main/Karte.png?raw=true)
+
+
+# Arbeitslosigkeit in Berlin
+![Arbeitslosigkeit in Berlin](https://github.com/georgrdw/Gelaendedarstellung_visualisierung_WiSe26-27/blob/main/Karte1.png?raw=true)
+
