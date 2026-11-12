@@ -13,3 +13,6 @@
 # Berlin Brandenburg Reliefkarte
 ![Berlin Brandenburg Reliefkarte](https://github.com/georgrdw/Gelaendedarstellung_visualisierung_WiSe26-27/blob/main/Screenshot%202026-11-12%20144421.png?raw=true)
 
+
+# Arbeitslosigkeit in Berlin
+![Arbeitslosigkeit in Berlin](https://github.com/georgrdw/Gelaendedarstellung_visualisierung_WiSe26-27/blob/main/Karte.png?raw=true)
