@@ -10,5 +10,6 @@
 ### Georg Polster
 ![enter image description here](https://github.com/georgrdw/GeorgTestRepo/blob/main/Reliefkarte_Georgien.png?raw=true)
 
+# Berlin Brandenburg Reliefkarte
+![Berlin Brandenburg Reliefkarte](https://github.com/georgrdw/Gelaendedarstellung_visualisierung_WiSe26-27/blob/main/Screenshot%202026-11-12%20144421.png?raw=true)
 
-![Berlin Brandenburg Reliefkarte](blob:https://viewscreen.githubusercontent.com/49fb3899-3147-43b6-aef7-c2108c4bd5d9)
